@@ -43,3 +43,7 @@ How to Use
 
 Project link
 https://feedback-analyzer-3glxsu2nd4jy7fe9nqrjrm.streamlit.app/
+
+
+Video link
+https://youtu.be/SQvPXQLkeoE?si=uKEJf3DTZdoqnR6W
