@@ -22,3 +22,24 @@ Technologies Used
 - Scikit-learn
 - WordCloud
 - FPDF
+
+How to Use
+-Open the application link in any web browser.
+
+-Download the feedback file from Google Forms:
+
+-Go to Responses
+
+-Click Download (.csv)
+
+-Upload the CSV file on the website.
+
+-Wait for the system to process the data.
+
+-View the summarized feedback and visualizations.
+
+-Click Download PDF Report to save the report.
+
+
+Project link
+https://feedback-analyzer-3glxsu2nd4jy7fe9nqrjrm.streamlit.app/
